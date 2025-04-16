@@ -1,6 +1,6 @@
 ##
-- 🔭 Atualmente trabalho com logística na KbM!
-- 🌱 Estou estudando no Alura Front end e Back End.
+- 🔭 Trabalhei com logística na KaBuM! - Porém estou em mudança de carreira.
+- 🌱 Fiz alguns cursos no Alura Front-End e estou cursando em algumas outras plataformas como Udemy.
 
 - 😄 Pronouns: Ele / Dele
 
